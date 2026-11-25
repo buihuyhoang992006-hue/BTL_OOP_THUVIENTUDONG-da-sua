@@ -1,0 +1,4 @@
+# Copy file nay thanh file db.properties va dien mat khau MySQL tren may cua ban
+db.url=jdbc:mysql://localhost:3306/thu_vien_tu_dong?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Ho_Chi_Minh&useUnicode=true&characterEncoding=UTF-8
+db.user=root
+db.password=NHAP_MAT_KHAU_MYSQL_CUA_BAN_VAO_DAY
